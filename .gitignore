@@ -1,3 +1,6 @@
 /.DS_Store
 /.vscode
 .Rproj.user
+
+.venv
+*.xlsx
